@@ -1,0 +1,8 @@
+.admin .card:hover {
+	background-color: #d1abbe;
+	cursor: pointer;
+}
+
+.iconSize {
+	font-size: 15vh;
+}
